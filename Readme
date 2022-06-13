@@ -1,0 +1,6 @@
+1. Display add to cart on list view with qty select and variant option on dawn theme like this : https://prnt.sc/zWn66oAz9kE1 , https://prnt.sc/DoNIi7PoZMqM
+
+Steps: 
+1. Need to create custom template for collection.
+2. Need to create main custom collection section.
+3. Create product list file
